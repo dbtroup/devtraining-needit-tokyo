@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>Record2</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-30 17:29:23</sys_created_on>
+        <sys_id>f8ae527807bb2110c2b0f9fc7c1ed054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_type_f8ae527807bb2110c2b0f9fc7c1ed054</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-30 17:29:23</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=f8ae527807bb2110c2b0f9fc7c1ed054"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>aa1f5ffddb867fc44d2bac44d4961935</instance_id>
+        <instance_name>dev87601</instance_name>
+        <name>sys_ux_screen_type_f8ae527807bb2110c2b0f9fc7c1ed054</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Record2</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-30 17:29:23</sys_created_on><sys_id>f8ae527807bb2110c2b0f9fc7c1ed054</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Record2</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_type_f8ae527807bb2110c2b0f9fc7c1ed054</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-30 17:29:23</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=f8ae527807bb2110c2b0f9fc7c1ed054"/></record_update>]]></payload>
+        <payload_hash>-2034114353</payload_hash>
+        <record_name>Record2</record_name>
+        <reverted_from/>
+        <source>590e416f07032110c2b0f9fc7c1ed00a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-30 17:29:23</sys_created_on>
+        <sys_id>0dae527807bb2110c2b0f9fc7c1ed057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1890d5a37130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-30 17:29:23</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>45ae5278fdbb21103f14689d2cc47757</update_guid>
+        <update_guid_history>45ae5278fdbb21103f14689d2cc47757:-2034114353</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-30 17:31:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>1649f44433474f8e82bc5b00cf11a444</sys_id>
+        <sys_metadata>f8ae527807bb2110c2b0f9fc7c1ed054</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_f8ae527807bb2110c2b0f9fc7c1ed054</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_f8ae527807bb2110c2b0f9fc7c1ed054">0dae527807bb2110c2b0f9fc7c1ed057</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-30 17:31:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
